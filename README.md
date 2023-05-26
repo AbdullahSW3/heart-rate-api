@@ -1,7 +1,7 @@
 # Heart Rate API
 
 
-Heart Rate API: An Efficient Solution for Estimating Heart Rate using PPG Analysis Data from Mobile Camera
+<b>Heart Rate API</b>: An Efficient Solution for Estimating Heart Rate using PPG Analysis Data from Mobile Camera
 
 <b>Introduction</b>:
 The HeartRateAPI is a sophisticated and user-friendly application programming interface (API) specifically designed to estimate heart rate using photoplethysmography (PPG) analysis data obtained from the mobile camera. This API provides a reliable solution for developers and researchers working on healthcare applications, fitness tracking systems, or any other domain that requires real-time heart rate monitoring.
