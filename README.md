@@ -3,10 +3,10 @@
 
 Heart Rate API: An Efficient Solution for Estimating Heart Rate using PPG Analysis Data from Mobile Camera
 
-<b>bold</b>Introduction:
+<b>Introduction</b>:
 The HeartRateAPI is a sophisticated and user-friendly application programming interface (API) specifically designed to estimate heart rate using photoplethysmography (PPG) analysis data obtained from the mobile camera. This API provides a reliable solution for developers and researchers working on healthcare applications, fitness tracking systems, or any other domain that requires real-time heart rate monitoring.
 
-Utilizing PPG Analysis:
+<b>Utilizing PPG Analysis</b>:
 The PPG analysis is a non-invasive method that measures the volumetric changes in blood flow through the skin by capturing the variations in light absorption caused by the pulsatile nature of blood circulation. By leveraging this technique, the HeartRateAPI extracts essential information from the PPG signal recorded by the mobile camera to estimate the user's heart rate accurately.
 
 Ease of Integration:
